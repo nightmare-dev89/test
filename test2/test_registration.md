@@ -12,7 +12,7 @@
 
 1. ![BPMN](BPMN.jpeg)
 
-2. UML Sequence Diagram (в графическом представлении во вложении)
+2. ![UML](UML.png)
 
 @startuml
 participant "Мобильное приложение" as App
